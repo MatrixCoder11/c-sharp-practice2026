@@ -1,0 +1,5 @@
+﻿Файл    : C:\Users\samma\source\repos\PracticalWork3\task1\bin\Debug\net10.0\story.txt
+Рядків  : 5
+Слів    : 34
+Символів: 201
+Дата    : 25.03.2026 21:17:52
