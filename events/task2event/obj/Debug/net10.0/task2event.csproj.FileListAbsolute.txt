@@ -1,0 +1,14 @@
+C:\Users\samma\source\repos\task2event\task2event\bin\Debug\net10.0\task2event.exe
+C:\Users\samma\source\repos\task2event\task2event\bin\Debug\net10.0\task2event.deps.json
+C:\Users\samma\source\repos\task2event\task2event\bin\Debug\net10.0\task2event.runtimeconfig.json
+C:\Users\samma\source\repos\task2event\task2event\bin\Debug\net10.0\task2event.dll
+C:\Users\samma\source\repos\task2event\task2event\bin\Debug\net10.0\task2event.pdb
+C:\Users\samma\source\repos\task2event\task2event\obj\Debug\net10.0\task2event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samma\source\repos\task2event\task2event\obj\Debug\net10.0\task2event.AssemblyInfoInputs.cache
+C:\Users\samma\source\repos\task2event\task2event\obj\Debug\net10.0\task2event.AssemblyInfo.cs
+C:\Users\samma\source\repos\task2event\task2event\obj\Debug\net10.0\task2event.csproj.CoreCompileInputs.cache
+C:\Users\samma\source\repos\task2event\task2event\obj\Debug\net10.0\task2event.dll
+C:\Users\samma\source\repos\task2event\task2event\obj\Debug\net10.0\refint\task2event.dll
+C:\Users\samma\source\repos\task2event\task2event\obj\Debug\net10.0\task2event.pdb
+C:\Users\samma\source\repos\task2event\task2event\obj\Debug\net10.0\task2event.genruntimeconfig.cache
+C:\Users\samma\source\repos\task2event\task2event\obj\Debug\net10.0\ref\task2event.dll
